@@ -1,0 +1,11 @@
+CO2,SpO2,BreathingRate,Condition
+800,98,16,Normal
+900,97,18,Normal
+1000,96,19,Normal
+1200,95,20,Moderate
+1300,94,21,Moderate
+1500,93,22,Moderate
+1800,91,24,Critical
+2000,90,25,Critical
+2200,89,27,Critical
+2500,88,28,Critical
